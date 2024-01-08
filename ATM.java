@@ -11,7 +11,7 @@ public class ATM {
         int select;
         while (right > 0)
         {
-            System.out.print("Kullanıcı Adınız :");
+            System.out.print("Kullanıcı Adınız : ");
             userName = oku.nextLine();
             System.out.print("Parolanız : ");
             password = oku.nextLine();

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Deneme {
+public class TersUcgen {
     public static void main(String[]args) {
         Scanner oku = new Scanner(System.in);
 
